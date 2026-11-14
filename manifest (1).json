@@ -1,0 +1,39 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "러너자이저",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "러너자이저",
+  "start_url": "/",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "https://newrunnergizer.vercel.app/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 192,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": true
+    },
+    {
+      "src": "https://newrunnergizer.vercel.app/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 512,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
