@@ -7,7 +7,7 @@
   "scope": "/",
   "short_name": "Runnergizer",
   "start_url": "/",
-  "theme_color": "#f57005",
+  "theme_color": "#fa9203",
   "icons": [
     {
       "src": "https://newrunnergizer.vercel.app/icon-192.png",
